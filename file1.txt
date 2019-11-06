@@ -1,1 +1,29 @@
-0
+function a(){
+
+
+    echo "Aqui é o resultado da function a"
+
+}
+
+
+function b(){
+
+
+    echo "Aqui é o resultado da function b"
+}
+
+
+function c(){
+
+
+    echo "Aqui é o resultado da function c"
+
+}
+
+
+function d(){
+
+
+    echo "Aqui é o resultado da function d"
+
+}
