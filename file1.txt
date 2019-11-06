@@ -35,3 +35,11 @@ function e(){
 
 }
 
+
+function f(){
+
+
+    echo "Aqui é o resultado da function f"
+
+}
+
