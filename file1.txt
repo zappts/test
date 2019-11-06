@@ -27,3 +27,11 @@ function d(){
     echo "Aqui é o resultado da function d"
 
 }
+
+function e(){
+
+
+    echo "Aqui é o resultado da function e"
+
+}
+
