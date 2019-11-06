@@ -1,7 +1,7 @@
 function a(){
 
 
-    echo "Aqui é o resultado da function a"
+    echo "Aqui é o resultado da function a - FA"
 
 }
 
@@ -16,7 +16,7 @@ function b(){
 function c(){
 
 
-    echo "Aqui é o resultado da function c"
+    echo "Aqui é o resultado da function c - FA"
 
 }
 
