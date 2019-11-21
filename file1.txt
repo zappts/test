@@ -1,7 +1,7 @@
 function a(){
 
 
-    echo "Aqui é o resultado da function a - ultra"
+    echo "Aqui é o resultado da function a"
 
 }
 
@@ -9,14 +9,14 @@ function a(){
 function b(){
 
 
-    echo "Aqui é o resultado da function b - ultra"
+    echo "Aqui é o resultado da function b"
 }
 
 
 function c(){
 
 
-    echo "Aqui é o resultado da function c - ultra"
+    echo "Aqui é o resultado da function c"
 
 }
 
@@ -24,6 +24,6 @@ function c(){
 function d(){
 
 
-    echo "Aqui é o resultado da function d - ultra"
+    echo "Aqui é o resultado da function d"
 
 }
