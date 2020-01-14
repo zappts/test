@@ -3,6 +3,7 @@ function a(){
 
     echo "Aqui é o resultado da function a - ultra 2"
 
+    feature teste squash 1
 }
 
 
