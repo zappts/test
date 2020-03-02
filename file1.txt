@@ -43,3 +43,9 @@ function f(){
 
 }
 
+
+function g(){
+
+dadasds
+
+}
